@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "217793097530",
+    "firebase_url": "https://jgonzalez-20ebf.firebaseio.com",
+    "project_id": "jgonzalez-20ebf",
+    "storage_bucket": "jgonzalez-20ebf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:217793097530:android:2ddddcc11ef43cd2",
+        "android_client_info": {
+          "package_name": "inacaptemuco.com.digipaperfinal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "217793097530-1k1kq2j4k4aqmf719gk4ig47q21pburp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQBDIJAReK6G8KASQIpZSoio9kg5hzMzc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "217793097530-1k1kq2j4k4aqmf719gk4ig47q21pburp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

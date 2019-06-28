@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+
+        <item
+            android:id="@+id/nav_perfil"
+            android:icon="@drawable/ic_perfil_24dp"
+            android:title="@string/menu_perfil"/>
+        <item
+            android:id="@+id/nav_areas_departamentos"
+            android:icon="@drawable/ic_areas_departamentos_24dp"
+            android:title="@string/menu_areas_departamentos" />
+        <item
+            android:id="@+id/nav_acerca_de"
+            android:icon="@drawable/ic_acerca_de_24dp"
+            android:title="@string/menu_acerca_de" />
+        <item
+            android:id="@+id/nav_preguntas_frecuentes"
+            android:icon="@drawable/ic_preguntas_frecuentes_24dp"
+            android:title="@string/menu_preguntas_frecuentes" />
+        <item
+            android:id="@+id/nav_bandeja_entrada"
+            android:icon="@drawable/ic_bandeja_entrada_24dp"
+            android:title="@string/menu_bandeja_entrada"/>
+        <item
+            android:id="@+id/nav_historial"
+            android:icon="@drawable/ic_history_black_24dp"
+            android:title="@string/nav_historial" />
+    </group>
+
+    <item android:title="Otras Opciones">
+        <menu>
+            <item
+                android:id="@+id/nav_cerrar_sesion"
+                android:icon="@drawable/ic_cerrar_sesion_24dp"
+                android:title="@string/menu_cerrar_sesion" />
+            <item
+                android:id="@+id/nav_calificar"
+                android:icon="@drawable/ic_calificar_24dp"
+                android:title="@string/menu_calificar" />
+        </menu>
+    </item>
+
+</menu>
